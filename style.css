@@ -1,0 +1,124 @@
+body{
+    margin: 0;
+    background-color:light whitesmoke;
+    
+}
+
+
+.buttons{
+    text-align: right;
+    background-color: lightblue;
+    width: 100%;
+    font-weight: bold;
+    
+    
+}
+.button:hover{
+    background-color: blue;
+}
+.button{
+    padding-left: 15px;
+    
+    box-sizing: border-box;
+    background-color: lightblue;
+    height: 40px;
+    border:none;
+    font-weight: bold;
+}
+#butt{
+    padding-right: 5px;
+}
+
+
+.bx{
+    margin-left: 5px;
+    size: 10px;
+
+}
+h1{
+    color: blue;   
+}
+p{
+    color:rgb(48, 48, 117);
+}
+.container{
+    display: flex;
+
+}
+.container1{
+    display: flex;
+    border: 3px solid;
+    border-color: lightblue;
+}
+
+.content{
+   justify-content: center;
+   align-items: center;
+   text-align: center; 
+   margin-top: 150px;
+   margin-left:250px; 
+
+}
+.content2{
+   
+    margin-left: 50px;
+ }
+ .content3{
+    margin-top: 50px;
+    margin-left:50px;
+ }
+ .content4{
+    
+    margin-top: 150px;
+    margin-left:250px; 
+    
+ 
+ }
+ .content41{
+    padding-bottom: 25px;
+    
+ }
+
+
+.icon{
+    background-color: blue;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    padding-top: 15px;
+    padding-bottom:15px ;
+    width: 100%;
+    
+}
+.icon2{
+    padding-top: 220px;
+   
+}
+.lastbox{
+    text-align: center;
+    background-color: rgb(2, 2, 42);
+    color: white;
+    width: 100%;
+    padding-top:8px;
+    padding-bottom:8px;
+    
+}
+ul{
+    font-size: 20px;
+    
+}
+h2{
+    color: blue;
+}
+.college{
+    font-size:20px ;
+}
+.para{
+    font-size: 25px;
+}
+.image1{
+    padding-left:10px ;
+}
+
+
+
